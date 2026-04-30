@@ -9,7 +9,7 @@
 * 🔭 I’m currently working on backend systems and APIs
 * 🌱 I’m learning system design and scalable architecture
 * ⚡ I enjoy solving real-world problems with clean code
-* 💬 Ask me about Laravel, APIs, MongoDB, and performance optimization
+* 💬 Ask me about Laravel, APIs and performance optimization
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Others:**
 
-* REST APIs, Git, Redis, Queue Systems
+* REST APIs, Git, Redis, Queue Systems, Payment Gateways
 
 ---
 
