@@ -1,18 +1,18 @@
 # Hi 👋, I'm Harshal Chaudhary
 
-💻 Software Engineer | Backend Developer | API Enthusiast
+💻 Backend Engineer specializing in scalable APIs and performance optimization
+🚀 Improved API response time by **40–60%** and handled **large-scale datasets (10L+ records)**
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-* 💻 Backend Engineer working on scalable systems and REST APIs
-* 🔭 Currently building and optimizing backend services for performance and reliability
-* ⚡ Improved API response time by **40–60%** through query optimization and indexing
-* 📦 Experienced in handling **large datasets (10L+ records)** using queues and batch processing
-* 🌱 Learning system design and scalable architecture to build high-performance applications
-* 🔍 Strong focus on debugging, performance tuning, and writing clean, maintainable code
-* 💬 Ask me about Laravel, APIs, MongoDB, and backend performance optimization
+- 💻 Backend Engineer working on scalable systems and APIs  
+- ⚡ Focused on performance optimization and clean architecture  
+- 📦 Experienced in handling large datasets and background processing  
+- 🌱 Learning system design and scalable architecture
+- 🔍 Strong focus on debugging, performance tuning, and writing clean, maintainable code
+- 💬 Ask me about Laravel, APIs, and performance optimization  
 
 ---
 
@@ -43,6 +43,13 @@
 * Node.js (basic understanding)
 
 ---
+
+## 🏆 Key Achievements
+
+* ⚡ Improved API response time by **40–60%** by eliminating N+1 queries and adding indexing
+* 🚀 Enhanced system performance by implementing Redis caching for frequently accessed data and using queue-based processing for heavy tasks
+* 📦 Handled large-scale data processing (**10L+ records**) efficiently using queues and batching
+
 
 ## 📌 Projects
 
