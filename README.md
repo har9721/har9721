@@ -53,9 +53,19 @@
 
 ## 📌 Projects
 
-* 🔹 **Project Name 1** – Short description (what problem it solves)
-* 🔹 **Project Name 2** – Short description
-* 🔹 **Project Name 3** – Short description
+### 🔹 Notification Service
+
+* Built a queue-based notification system to explore priority queues and job batching concepts
+* Implemented multiple queues (high, medium, low) to handle different types of emails (OTP, transactional, promotional)
+* Used asynchronous processing to understand background job execution and queue prioritization
+
+---
+
+### 🔹 Projects Today
+
+* Built scalable REST APIs handling large export datasets
+* Improved API performance by implementing Redis caching and queue-based background processing
+* Optimized database queries and reduced response time, preventing timeout issues as data scaled
 
 ---
 
