@@ -6,10 +6,13 @@
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on backend systems and APIs
-* 🌱 I’m learning system design and scalable architecture
-* ⚡ I enjoy solving real-world problems with clean code
-* 💬 Ask me about Laravel, APIs and performance optimization
+* 💻 Backend Engineer working on scalable systems and REST APIs
+* 🔭 Currently building and optimizing backend services for performance and reliability
+* ⚡ Improved API response time by **40–60%** through query optimization and indexing
+* 📦 Experienced in handling **large datasets (10L+ records)** using queues and batch processing
+* 🌱 Learning system design and scalable architecture to build high-performance applications
+* 🔍 Strong focus on debugging, performance tuning, and writing clean, maintainable code
+* 💬 Ask me about Laravel, APIs, MongoDB, and backend performance optimization
 
 ---
 
