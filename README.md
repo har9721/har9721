@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harshal Chaudhary
 
-💻 Backend Engineer specializing in scalable APIs and performance optimization
-🚀 Improved API response time by **40–60%** and handled **large-scale datasets (10L+ records)**
+-  💻 Backend Engineer specializing in scalable APIs and performance optimization
+-  🚀 Improved API response time by **40–60%** and handled **large-scale datasets (10L+ records)**
 
 ---
 
@@ -59,15 +59,6 @@
 
 ---
 
-## 📈 What I Focus On
-
-* Writing clean and maintainable code
-* Optimizing database queries
-* Building scalable backend systems
-* Designing efficient APIs
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/har9721
@@ -75,6 +66,5 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I believe consistency beats talent when talent doesn’t work hard.
+## ⚡ Fun Fact  
+I enjoy debugging performance issues and optimizing systems more than building features.
