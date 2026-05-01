@@ -63,8 +63,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/har9721)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harshal-chaudhary-2521261ba/)
+* GitHub: https://github.com/har9721
+* LinkedIn: https://www.linkedin.com/in/harshal-chaudhary-2521261ba/
 
 ---
 
