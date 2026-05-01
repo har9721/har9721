@@ -22,17 +22,25 @@
 
 * PHP, JavaScript
 
-**Frameworks & Tools:**
+**Frameworks & Platforms:**
 
-* Laravel, Node.js
+* Laravel, Laravel Vapor
 
-**Database:**
+**Databases:**
 
 * MySQL, MongoDB
 
-**Others:**
+**Tools & Technologies:**
 
-* REST APIs, Git, Redis, Queue Systems, Payment Gateways
+* REST APIs, Git, Redis, Queue Systems, Postman
+
+**Additional:**
+
+* Payment Gateway Integration
+
+**Familiar With:**
+
+* Node.js (basic understanding)
 
 ---
 
