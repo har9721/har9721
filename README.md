@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harshal Chaudhary
 
 -  💻 Backend Engineer specializing in scalable APIs and performance optimization
--  🚀 Improved API response time by **40–60%** and handled **large-scale datasets (10L+ records)**
+-  🚀 Improved API response time and handled **large-scale datasets (10L+ records)**
 
 ---
 
